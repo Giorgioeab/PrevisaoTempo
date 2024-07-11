@@ -69,8 +69,8 @@
 <feBlend mode="normal" in2="shape" result="effect1_innerShadow_50_47"/>
 </filter>
 <linearGradient id="paint0_linear_50_47" x1="13.4806" y1="38.0843" x2="84.5464" y2="-15.0595" gradientUnits="userSpaceOnUse">
-<stop stop-color="#DDDDDD"/>
-<stop offset="1" stop-color="white" stop-opacity="0.58"/>
+<stop stop-color="#aecacf"/>
+<stop offset="1" stop-color="#aecacf" stop-opacity="0.58"/>
 </linearGradient>
 </defs>
 </svg>

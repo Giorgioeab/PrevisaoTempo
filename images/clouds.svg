@@ -56,16 +56,16 @@
 <feBlend mode="normal" in2="shape" result="effect1_innerShadow_44_397"/>
 </filter>
 <linearGradient id="paint0_linear_44_397" x1="10.6217" y1="16.3811" x2="41.189" y2="-6.4775" gradientUnits="userSpaceOnUse">
-<stop stop-color="white"/>
-<stop offset="1" stop-color="white" stop-opacity="0.58"/>
+<stop stop-color="#aecacf"/>
+<stop offset="1" stop-color="#aecacf" stop-opacity="0.58"/>
 </linearGradient>
 <linearGradient id="paint1_linear_44_397" x1="0.967749" y1="27.7885" x2="16.3175" y2="16.3097" gradientUnits="userSpaceOnUse">
-<stop stop-color="white"/>
-<stop offset="1" stop-color="white" stop-opacity="0.58"/>
+<stop stop-color="#aecacf"/>
+<stop offset="1" stop-color="#aecacf" stop-opacity="0.58"/>
 </linearGradient>
 <linearGradient id="paint2_linear_44_397" x1="10.1768" y1="44.0074" x2="68.0168" y2="0.601122" gradientUnits="userSpaceOnUse">
-<stop stop-color="white"/>
-<stop offset="1" stop-color="white" stop-opacity="0.58"/>
+<stop stop-color="#aecacf"/>
+<stop offset="1" stop-color="#aecacf" stop-opacity="0.58"/>
 </linearGradient>
 </defs>
 </svg>
